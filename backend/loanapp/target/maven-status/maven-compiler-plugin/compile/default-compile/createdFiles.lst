@@ -1,0 +1,7 @@
+com\loan\loanapp\LoanappApplication.class
+com\loan\loanapp\dto\LoanRequest.class
+com\loan\loanapp\dto\LoanResponse.class
+com\loan\loanapp\service\LoanService.class
+com\loan\loanapp\entity\LoanEntity.class
+com\loan\loanapp\repository\LoanRepository.class
+com\loan\loanapp\controller\LoanController.class
