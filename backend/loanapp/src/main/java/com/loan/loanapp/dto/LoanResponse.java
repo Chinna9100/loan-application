@@ -9,4 +9,5 @@ public class LoanResponse {
     public Long totalDays;
     public Double totalInterest;
     public Double totalAmount;
+
 }

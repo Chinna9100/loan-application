@@ -43,4 +43,5 @@ public class LoanEntity {
 
     public Double getTotalAmount() { return totalAmount; }
     public void setTotalAmount(Double totalAmount) { this.totalAmount = totalAmount; }
+    
 }
